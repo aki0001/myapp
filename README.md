@@ -12,3 +12,8 @@
 # 3.apacheインストール
 # IPアドレス変更
 # 4.PostgreSQLインストール
+# 参考ページ
+# https://qiita.com/bwtakacy/items/09208211d91c8b288f4d
+# 5.OpenJDKインストール
+# 6.wildflyインストール
+# http://wildfly.org/
